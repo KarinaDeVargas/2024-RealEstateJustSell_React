@@ -213,7 +213,7 @@ section {
 
 /* ********LOGIN AND REGISTRATION********** */
 .login {
-  background: url("./images/home-bg_opt1.jpg") no-repeat;
+  background: url("./images/home-bg_opt1.1.jpg") no-repeat;
   background-size: cover;
   background-position: center;  
   min-height: 80vh;
@@ -356,7 +356,7 @@ section {
 }
 
 .listingsFilter {
-  background: url("./images/home-bg_opt1.jpg") no-repeat;
+  background: url("./images/home-bg_opt1.1.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
