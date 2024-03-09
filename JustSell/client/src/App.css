@@ -2,7 +2,7 @@
 
 /* ********GENERAL********** */
 :root {
-  --main-color: #e59524;
+  --main-color: rgb(11, 123, 123);
   --light-color: #666;
   --light-bg: #eee;
   --white: #fff;
@@ -121,7 +121,7 @@ section {
 /* ********HOME********** */
 
 .home {
-  background: url("./images/home-bg_opt1.jpg") no-repeat;
+  background: url("./images/home-bg_opt1.1.jpg") no-repeat;
   background-size: cover;
   background-position: center;  
 }
