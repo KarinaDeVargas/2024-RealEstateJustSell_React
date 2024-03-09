@@ -55,7 +55,7 @@ export const NavbarLink = styled(Link)`
   padding: 10px;
 
   &:hover {
-    background-color: #e59524;
+    background-color: rgb(3, 59, 81);
     color: black;
     border-radius: 5px;
     padding: 10px;
@@ -115,7 +115,7 @@ export const LoggedInContainer = styled.div`
 export const LogoutBtn = styled.div`
   padding-left: 60px;
   padding-right: 60px;
-  /* background-color: #e59524; */
+  /* background-color: rgb(3, 59, 81); */
   /* flex: 50%;
   height: 80%;
   display: flex;
@@ -125,7 +125,7 @@ export const LogoutBtn = styled.div`
 `;
 
 export const WelcomeContainer = styled.div`
-  //background-color: #e59524;
+  //background-color: rgb(3, 59, 81);
   padding-top: 15px;
   color: white;
   font-size: large;
