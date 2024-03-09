@@ -1,4 +1,4 @@
-website: https://justsell.netlify.app/
+website: https://2024-real-estate-just-sell-react-three.vercel.app/
 
 # Real Estate Website
 
