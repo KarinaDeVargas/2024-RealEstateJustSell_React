@@ -82,10 +82,11 @@ Here are listed the URLs (include API calls on a separate list) you'll be handli
 
 ## SCREENSHOTS
 
-<img src="" alt="Screenshot 1" width="350">
-<img src="" alt="Screenshot 1" width="350">
-<img src="" alt="Screenshot 1" width="350">
-<img src="" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2024-RealEstateJustSell_React/blob/main/JustSell/client/src/images/Home01.png" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2024-RealEstateJustSell_React/blob/main/JustSell/client/src/images/Home02.png" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2024-RealEstateJustSell_React/blob/main/JustSell/client/src/images/Login.png" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2024-RealEstateJustSell_React/blob/main/JustSell/client/src/images/Registration.png" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2024-RealEstateJustSell_React/blob/main/JustSell/client/src/images/Search.png" alt="Screenshot 1" width="350">
 
 
 
